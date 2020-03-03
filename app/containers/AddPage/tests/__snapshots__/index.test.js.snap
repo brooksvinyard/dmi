@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddPage /> Should render and match the snapshot 1`] = `
+<div
+  class="Paper-bhubno-0 bHtalL"
+>
+  <h2
+    class="H2-egphza-0 ljvrU"
+  >
+    Add a new String
+  </h2>
+  <p
+    class="P-sc-76wrpw-0 bTCnCC"
+  >
+    Add a new string below.
+  </p>
+  <form>
+    <input
+      class="Input-sc-19txxuq-0 jwLKGP"
+      id="string"
+      placeholder="Hello World!"
+      required=""
+      type="text"
+      value=""
+    />
+    <button
+      class="Button-sc-1fkoyq4-0 cSUWIY"
+    >
+      Add String
+    </button>
+  </form>
+</div>
+`;
+
+exports[`<AddPage /> should render and match the snapshot 1`] = `
+<div
+  class="Paper-bhubno-0 bHtalL"
+>
+  <h2
+    class="H2-egphza-0 ljvrU"
+  >
+    Add a new String
+  </h2>
+  <p
+    class="P-sc-76wrpw-0 bTCnCC"
+  >
+    Add a new string below.
+  </p>
+  <form>
+    <input
+      class="Input-sc-19txxuq-0 jwLKGP"
+      id="string"
+      placeholder="Hello World!"
+      required=""
+      type="text"
+      value=""
+    />
+    <button
+      class="Button-sc-1fkoyq4-0 cSUWIY"
+    >
+      Add String
+    </button>
+  </form>
+</div>
+`;
+
+exports[`<AddPage /> should render and match the snapshot after error 1`] = `
+<div
+  class="Paper-bhubno-0 bHtalL"
+>
+  <h2
+    class="H2-egphza-0 ljvrU"
+  >
+    Add a new String
+  </h2>
+  <p
+    class="P-sc-76wrpw-0 bTCnCC"
+  >
+    Add a new string below.
+  </p>
+  <form>
+    <input
+      class="Input-sc-19txxuq-0 jwLKGP"
+      id="string"
+      placeholder="Hello World!"
+      required=""
+      type="text"
+      value=""
+    />
+    <button
+      class="Button-sc-1fkoyq4-0 cSUWIY"
+    >
+      Add String
+    </button>
+  </form>
+  <div
+    class="Error-sc-50fjew-0 iNXEva"
+  >
+    There was an error adding the string to the database.
+  </div>
+</div>
+`;
+
+exports[`<AddPage /> should render and match the snapshot after success 1`] = `
+<div
+  class="Paper-bhubno-0 bHtalL"
+>
+  <h2
+    class="H2-egphza-0 ljvrU"
+  >
+    Add a new String
+  </h2>
+  <p
+    class="P-sc-76wrpw-0 bTCnCC"
+  >
+    Add a new string below.
+  </p>
+  <form>
+    <input
+      class="Input-sc-19txxuq-0 jwLKGP"
+      id="string"
+      placeholder="Hello World!"
+      required=""
+      type="text"
+      value=""
+    />
+    <button
+      class="Button-sc-1fkoyq4-0 cSUWIY"
+    >
+      Add String
+    </button>
+  </form>
+  <p
+    class="P-sc-76wrpw-0 bTCnCC"
+  >
+    String successfully added to database.
+  </p>
+</div>
+`;
